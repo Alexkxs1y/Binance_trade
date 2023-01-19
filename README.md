@@ -1,0 +1,1 @@
+Implementation of trading based on volatility. The most volatile pair of BTCUSDT coins was chosen. The bank is split in half between the coins. And with a certain periodicity, an order to buy and sell a coin is simultaneously placed, depending on the exchange rate and its previous dynamics and the orders already existing in the pool.
